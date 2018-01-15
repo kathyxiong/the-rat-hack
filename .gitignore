@@ -6,8 +6,8 @@ yelp_keys.yml
 *.csv
 *.xlsx
 
-# data files
-data/
+# shared data files
+/data/
 
 # system generated files
 *.DS_Store
