@@ -5,3 +5,11 @@ scripts/demo_shiny_app/data/.Rdata
 yelp_keys.yml
 *.csv
 *.xlsx
+
+# data files
+data/
+
+# system generated files
+*.DS_Store
+*.Rhistory
+*.Rapp.history
